@@ -1,5 +1,0 @@
-Title of work: S&P Global Notes
-Link to work: https://github.ibm.com/andretost/spg.git
-Revision: NA
-License of the work: Apache-2.0 license
-Creator names: andretost
